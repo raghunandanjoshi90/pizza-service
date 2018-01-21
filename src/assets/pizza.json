@@ -1,30 +1,102 @@
+{
+  "pizzas": [
+    {
+      "id": 101,
+      "pizza_name": "Veggie Supreme",
+      "imageURL": "./assets/images.jpg",
+      "price": "545",
+      "veg": "Veg",
+      "size": "medium",
+      "curst": "pan",
+      "ingradients": "Onian, Capsicum, Mashroom, Red paprika, Swwet corn"
+    },
+    {
+      "id": 201,
+      "pizza_name": "Exotica",
+      "imageURL": "./assets/images1.jpg",
+      "price": "457",
+      "veg": "Veg",
+      "size": "medium",
+      "curst": "pan",
+      "ingradients": "Onian, Capsicum, Green Capsicum, Baby corn, Mashroom, Black olives"
+    },
+    {
+      "id": 301,
+      "pizza_name": "Paneer Vegorama",
+      "imageURL": "./assets/images2.jpg",
+      "price": "560",
+      "veg": "Veg",
+      "size": "medium",
+      "curst": "pan",
+      "ingradients": "Paneer, Onion, Capsicum, Black Olives, Red Paprika"
+    },
+    {
+      "id": 401,
+      "pizza_name": "Triple Chicken Feast",
+      "imageURL": "./assets/images3.jpg",
+      "price": "670",
+      "veg": "Non-veg",
+      "size": "medium",
+      "curst": "pan",
+      "ingradients": "Chicken Keema, Chicken Meatball, Chicken Hot & Chilly, Capsicum, Onion, Sweet Corn"
+    },
+    {
+      "id": 501,
+      "pizza_name": "Chicken Italiano",
+      "imageURL": "./assets/images2.jpg",
+      "price": "625",
+      "veg": "Non-veg",
+      "size": "medium",
+      "curst": "pan",
+      "ingradients": "Chicken Pepperoni, Chicken Sausage, Mushroom, Capsicum, Black Olives"
+    },
+    {
+      "id": 601,
+      "pizza_name": "Ultimate Chicken",
+      "imageURL": "./assets/images1.jpg",
+      "price": "780",
+      "veg": "Non-veg",
+      "size": "large",
+      "curst": "pan",
+      "ingradients": "Chicken Meatball, Chicken Pepperoni, Chicken Sausage, Chicken Keema"
+    }
+  ],
 
-[{
-  "id": 1,
-  "first_name": "Jeanette",
-  "last_name": "Penddreth",
-  "email": "jpenddreth0@census.gov",
-  "gender": "Female",
-  "ip_address": "26.58.193.2"
-}, {
-  "id": 2,
-  "first_name": "Giavani",
-  "last_name": "Frediani",
-  "email": "gfrediani1@senate.gov",
-  "gender": "Male",
-  "ip_address": "229.179.4.212"
-}, {
-  "id": 3,
-  "first_name": "Noell",
-  "last_name": "Bea",
-  "email": "nbea2@imageshack.us",
-  "gender": "Female",
-  "ip_address": "180.66.162.255"
-}, {
-  "id": 4,
-  "first_name": "Willard",
-  "last_name": "Valek",
-  "email": "wvalek3@vk.com",
-  "gender": "Male",
-  "ip_address": "67.76.188.26"
-}]
+  "address": "",
+
+
+  "order": [
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    },
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    },
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    },
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    },
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    },
+    {
+      "order_id": "",
+      "address": "",
+      "order_total": ""
+    }
+  ]
+}
+
+

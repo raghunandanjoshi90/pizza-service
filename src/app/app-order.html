@@ -1,0 +1,14 @@
+<h3>Complete your order</h3>
+
+
+<mat-card class="login-container">
+  <h4 style="text-align: center">Please enter your Address</h4>
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="Enter address" id="address" [formControl]="address" required class="address"
+           [(ngModel)]="localUser.address">
+  </mat-form-field>
+
+
+  <br><button  mat-button class="btn-primary" (click)="onsubmitorder($event)">Place Order</button>
+
+</mat-card>
